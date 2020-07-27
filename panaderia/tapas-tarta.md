@@ -19,8 +19,8 @@ Es una masa base para realizar tartas, empanadas, tequeños y otras preparacione
 
 ## Preparación
 1. En un bowl con harina, agregar la manteca sólida cortada en cubos y la sal.
-  1. Mezclar hasta que la textura de la harina con la manteca sea de un arenado.
+    1. Mezclar hasta que la textura de la harina con la manteca sea de un arenado.
 2. Agregar el huevo y mezclar.
 3. Agregar el agua de a poco al amasar, hasta que no quede harina visible.
 4. Amasar unos minutos, no es importante formar gluten, sino tener un bollo suave y elástico antes de llevar al reposo.
-  1. Vamos a tener un bollo de alrededor de 700 a 800 gramos, dependiendo de la cantidad de agua y el peso general del huevo (el peso promedio de un huevo es de 60g).
+    1. Vamos a tener un bollo de alrededor de 700 a 800 gramos, dependiendo de la cantidad de agua y el peso general del huevo (el peso promedio de un huevo es de 60g).
