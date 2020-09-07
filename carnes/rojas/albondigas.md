@@ -31,4 +31,4 @@ _Como todo en este "recetario", esta es mi forma de hacer albondigas, y utilizo 
 7. Podemos dorarlas de tantos lados como sea posible, pero con dos lados es suficiente.
 
 ### Preparación de la salsa
-Ver [pastas/salsas/tomates/albondigas.md](receta de salsa para albondigas).
+Ver [receta de salsa para albondigas](pastas/salsas/tomates/albondigas.md).
