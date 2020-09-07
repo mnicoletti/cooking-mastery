@@ -22,7 +22,7 @@ _Además, la receta se detalla como para realizar con pure de tomate, que es lo 
 
 ## Procedimiento
 ### Preparación de las albondigas
-Ver [receta de albondigas](carnes/rojas/albondigas.md).
+Ver [receta de albondigas](../../../carnes/rojas/albondigas.md).
 
 ### Preparación de la salsa
 Tener en cuenta que la salsa la vamos a realizar luego de terminar de sellar nuestras albondigas, con lo cual tenemos dos opciones, dependiendo de cuando hagamos la salsa. Si **vamos a realizar la salsa inmediatamente después**, seguimos con la preparación sin limpiar el fondo de cocción. En cambio, si la vamos a hacer **en otro momento**, juntamos y reservamos el fondo de cocción, ya que lo utilizaremos como parte del medio graso donde sofritar las verduras.
