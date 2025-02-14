@@ -20,4 +20,4 @@
 5. Finalmente incorporar el cacao en polvo y la harina 0000.
 6. Batir con globo hasta que la mezcla esté correctamente incorporada.
 7. Cubrir un molde con papel aluminio y enmantecar.
-8. Hornear por un mínimo de 20 minutos en horno a 180 grados.
+8. Hornear por un mínimo de 20 minutos en horno a 180 grados. El punto para este brownie es de 85˚C corazón.
